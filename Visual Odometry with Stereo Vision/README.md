@@ -87,7 +87,3 @@ The script displays the estimated trajectories and compares them with the ground
 
 Feel free to fork this project, submit issues, and create pull requests. Contributions are welcome!
 
-
-## Contributing
-Feel free to fork this project, submit issues and pull requests. Contributions are welcome!
-
