@@ -1,13 +1,9 @@
-import os
 import cv2
 import numpy as np
-import matplotlib
-matplotlib.use('TkAgg') 
 import matplotlib.pyplot as plt
-import pandas as pd
 
 
-# Définir les constantes
+
 rectified_value = True
 
 
