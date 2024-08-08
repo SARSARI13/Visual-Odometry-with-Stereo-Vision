@@ -200,7 +200,7 @@ def visual_odometry(left_img_path, right_img_path, calibration, num_frames, grou
     return trajectory
 
 def main():
-    base_path = r'C:\Users\Yassine\Desktop\git\SLAM'
+    base_path = r'C:\Users\Yassine\Desktop\git\VOS'
     sequence_id = '00'
     left_img_path = os.path.join(base_path, sequence_id, 'image_0')
     right_img_path = os.path.join(base_path, sequence_id, 'image_1')
