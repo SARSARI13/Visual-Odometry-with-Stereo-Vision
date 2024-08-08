@@ -13,7 +13,7 @@ Before running this script, you need to install the following Python libraries:
 - OpenCV
 - NumPy
 - Matplotlib
-- Pandas
+
 
 ## Directory Structure
 
